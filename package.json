@@ -1,0 +1,29 @@
+{
+  "name": "nodelearning",
+  "version": "1.0.0",
+  "description": "node learning tutorials in 2026",
+  "keywords": [
+    "node",
+    "learning"
+  ],
+  "homepage": "https://github.com/namyagaur/NodeLearning#readme",
+  "bugs": {
+    "url": "https://github.com/namyagaur/NodeLearning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namyagaur/NodeLearning.git"
+  },
+  "license": "ISC",
+  "author": "namya",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^3.1.11"
+  }
+}
